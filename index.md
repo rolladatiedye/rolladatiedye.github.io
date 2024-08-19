@@ -2,10 +2,11 @@
 layout: default
 title: RolladaTyeDye.com
 ---
-#### Tie-dye clothing📍 dyed in Tenerife. 🌈
+## Tie-dye clothing📍 dyed in Tenerife. 🌈
 
-[Instagram](https://www.instagram.com/rollada_tie_dye/)
-[Facebook](https://www.facebook.com/rolladatiedye)
+🔗 [Instagram](https://www.instagram.com/rollada_tie_dye/)
+
+🔗 [Facebook](https://www.facebook.com/rolladatiedye)
 
 ### Contacts
 
