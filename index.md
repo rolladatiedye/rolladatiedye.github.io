@@ -1,13 +1,14 @@
 ---
 layout: default
-title: RolladaTyeDye
+title: RolladaTyeDye.com
 ---
-#### Dobrodošli na naši spletni strani. 🌈
+#### Tie-dye clothing📍 dyed in Tenerife. 🌈
 
-Tukaj smo.
+[Instagram](https://www.instagram.com/rollada_tie_dye/)
+[Facebook](https://www.facebook.com/rolladatiedye)
 
-### Kontakti 
+### Contacts
 
-Kontaktirajte nas na rolladatiedye 🙉 gmail pika com. 
+You can contact us via e-mail *rolladatiedye 🙉 gmail dot com*.
 
-Lahko tudi na zasebna sporočila na družabnih omrežjih (spodaj).
+You can also use DM's on socials (mentioned above).
