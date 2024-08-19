@@ -14,4 +14,4 @@ Our Instagram gallery is a vibrant showcase of our latest creations, behind-the-
 
 Join us in embracing the colorful side of life. Whether you’re looking to make a bold fashion statement or find a unique gift, Rollada Tie-Dye is here to help you stand out with style. Explore our collection and find the perfect piece that speaks to your individuality.
 
-Stay colorful, stay bold, stay Rollada.
+Stay colorful, stay bold, stay Rollada. 🌈
