@@ -5,9 +5,7 @@ layout: base
 
 ## Tie-dye clothing 📍 dyed in Tenerife. 🌈
 
-Welcome to RolladaTieDye.com, where color meets creativity! We’re excited to share our vibrant, handcrafted tie-dye creations with you. 👕
-
-Our clothing is one-of-a-kind, each piece hand-dyed in the beautiful surroundings of Tenerife. 🌴✨ 
+Welcome to RolladaTieDye.com, where color meets creativity! Each our piece is hand-dyed in the beautiful surroundings of Tenerife. 🌴✨  We’re excited to share our vibrant, handcrafted tie-dye creations with you. 👕
 
 Celebrate color and creativity with us, and bring a splash of island-inspired style into your wardrobe! To see our latest creations, follow us on socials below. 👇
 
