@@ -43,7 +43,7 @@
   cursor: pointer;
   transition: background-color 0.3s;
 
-  flex: 1 1 calc(50% - 1rem); // 🔥 this is what you needed
+  flex: 1 1 calc(50% - 1rem);
   max-width: 100%;
   box-sizing: border-box;
 
@@ -77,11 +77,10 @@
   vertical-align: middle;
 }
 
-header {
+header, .social-links {
 	display: none;
 }
 
 .social-icon-button svg.svg-icon {
   vertical-align: middle;
 }
-

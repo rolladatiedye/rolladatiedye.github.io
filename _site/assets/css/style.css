@@ -816,7 +816,7 @@ table td {
   vertical-align: middle;
 }
 
-header {
+header, .social-links {
   display: none;
 }
 
