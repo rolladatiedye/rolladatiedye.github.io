@@ -4,6 +4,8 @@ layout: base
 ---
 
 {::nomarkdown}
+<div class="hero">
+
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1147.49 462.43">
   <g data-name="Layer 1">
     <path d="M0 462.43h1147.49V0H0Z" fill="#181818"/>
@@ -18,19 +20,21 @@ layout: base
 </svg>
 
 <div class="social-buttons-wrapper">
-  <a class="social-icon-button" href="https://www.instagram.com/rollada_tie_dye/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+  <button class="social-icon-button" onclick="window.location.href='https://www.instagram.com/rollada_tie_dye/'" aria-label="Instagram">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#instagram"></use>
     </svg>
     <span>Instagram</span>
-  </a>
+  </button>
 
-  <a class="social-icon-button" href="https://www.facebook.com/rolladatiedye" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+  <button class="social-icon-button" onclick="window.location.href='https://www.facebook.com/rolladatiedye'" aria-label="Facebook">
     <svg class="svg-icon grey">
       <use xlink:href="/assets/minima-social-icons.svg#facebook"></use>
     </svg>
     <span>Facebook</span>
-  </a>
+  </button>
+</div>
+
 </div>
 {:/}
 
