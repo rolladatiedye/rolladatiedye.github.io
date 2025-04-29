@@ -1,2 +1,62 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.social-buttons-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+  justify-content: center; // center inside wrapper
+}
+
+.social-icon-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  padding: 0.75em 1em;
+  font-weight: bold;
+  font-size: 1rem;
+  border: 1px solid currentColor;
+  border-radius: 0px;
+  background: none;
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s;
+
+  flex: 0 1 300px; // max width per button
+  max-width: 100%;
+  box-sizing: border-box;
+
+  svg.svg-icon {
+    width: 1.5em;
+    height: 1.5em;
+    fill: currentColor;
+  }
+
+  &:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    color: #4ab3f4;
+    border-color: #4ab3f4;
+  }
+}
+
+.social-icon-button:visited {
+  color: inherit;
+  border-color: currentColor;
+}
+
+.social-icon-button:hover,
+.social-icon-button:focus {
+  background-color: rgba(255, 0, 0, 0.1); // red tint background
+  color: #ff0000;
+
+  svg {
+    fill: #ff0000;
+  }
+}
+
+.social-links {
+	display: none;
+}

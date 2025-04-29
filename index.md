@@ -6,7 +6,7 @@ layout: base
 {::nomarkdown}
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1147.49 462.43">
   <g data-name="Layer 1">
-    <path d="M0 462.43h1147.49V0H0Z"/>
+    <path d="M0 462.43h1147.49V0H0Z" fill="#181818"/>
     <path d="M466.92 184.63h-22.85v89.57h65.8v-22.16h-42.95Zm100.59 0h-22.84v89.57h65.79v-22.16h-42.95Zm108.63 55.69 9.87-26.3 9.76 26.3Zm-1.49-55.7-36.3 89.57h25.04l4.95-13.09h35.24l4.95 13.1h25.02l-36.17-89.57Z" fill="#fff" fill-rule="evenodd"/>
     <clipPath id="a">
       <path transform="matrix(2.77778 0 0 -2.77778 0 462.43)" d="M0 166.48h413.1V0H0Z"/>
@@ -17,22 +17,20 @@ layout: base
   </g>
 </svg>
 
+<div class="social-buttons-wrapper">
+  <a class="social-icon-button" href="https://www.instagram.com/rollada_tie_dye/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#instagram"></use>
+    </svg>
+    <span>Instagram</span>
+  </a>
+
+  <a class="social-icon-button" href="https://www.facebook.com/rolladatiedye" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+    <svg class="svg-icon grey">
+      <use xlink:href="/assets/minima-social-icons.svg#facebook"></use>
+    </svg>
+    <span>Facebook</span>
+  </a>
+</div>
 {:/}
 
-## Tie-dye clothing 📍 dyed in Tenerife. 🌈
-
-Welcome to RolladaTieDye.com, where color meets creativity! Each our piece is hand-dyed in the beautiful surroundings of Tenerife. 🌴✨  We’re excited to share our vibrant, handcrafted tie-dye creations with you. 👕
-
-Celebrate color and creativity with us, and bring a splash of island-inspired style into your wardrobe! To see our latest creations, follow us on socials below. 👇
-
-🌈 [Instagram](https://www.instagram.com/rollada_tie_dye/) • 👕 [Facebook](https://www.facebook.com/rolladatiedye)
-
-### Contacts
-
-You can contact us via e-mail *info [at] rolladatiedye {dot} com*. 📬
-
-You can also use DM's on socials. 💬
-
-
-
---- 
