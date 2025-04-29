@@ -772,8 +772,6 @@ table td {
   box-sizing: border-box;
 }
 .social-icon-button svg.svg-icon {
-  width: 24px;
-  height: 24px;
   fill: currentColor;
 }
 .social-icon-button:hover {
@@ -803,12 +801,6 @@ table td {
 
 header, .social-links {
   display: none;
-}
-
-.social-icon-button svg.svg-icon {
-  width: 24px;
-  height: 24px;
-  flex-shrink: 0;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -30,8 +30,6 @@
   box-sizing: border-box;
 
   svg.svg-icon {
-    width: 24px;
-    height: 24px;
     fill: currentColor;
   }
 
@@ -64,10 +62,3 @@
 header, .social-links {
 	display: none;
 }
-
-.social-icon-button svg.svg-icon {
-  width: 24px;
-  height: 24px;
-  flex-shrink: 0;
-}
-
