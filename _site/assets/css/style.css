@@ -772,20 +772,14 @@ table td {
   box-sizing: border-box;
 }
 .social-icon-button svg.svg-icon {
-  width: 1.5em;
-  height: 1.5em;
+  width: 24px;
+  height: 24px;
   fill: currentColor;
 }
 .social-icon-button:hover {
   background-color: rgba(0, 0, 0, 0.05);
   color: #4ab3f4;
   border-color: #4ab3f4;
-}
-
-.social-icon-button svg.svg-icon {
-  width: 1.6em;
-  height: 1.6em;
-  flex-shrink: 0;
 }
 
 .social-icon-button:visited {
@@ -803,8 +797,18 @@ table td {
   fill: #ff0000;
 }
 
+.social-icon-button svg.svg-icon {
+  vertical-align: middle;
+}
+
 header, .social-links {
   display: none;
+}
+
+.social-icon-button svg.svg-icon {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
